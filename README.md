@@ -11,3 +11,6 @@ And a much neglected meetup: [
 Sydney computational design group](https://www.meetup.com/Sydney-computational-design-group/)
 
 I tweet a bit from [@notionparallax](https://twitter.com/notionparallax) and [@WaldenPondZine](https://twitter.com/WaldenPondZine)
+
+
+<a href="https://stackoverflow.com/users/1835727/ben"><img src="https://stackoverflow.com/users/flair/1835727.png" width="208" height="58" alt="profile for Ben at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ben at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
