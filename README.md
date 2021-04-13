@@ -3,7 +3,7 @@
 - I’m currently working on:
     - [Walden Pond](https://waldenpond.press/), a personalised magazine. ([:octocat: front end](https://github.com/notionparallax/wp2frontEnd), back end is full of secrets 🧙‍♂️)
     - [Design Computing](http://design-computing.github.io/) A UNSW course in the Computational Design degree that teaches how to use Python to do useful things, and how to explore public data and tell stories with it. ([:octocat: profile:](https://github.com/design-computing))
-    - Pronoun badge ([:octocat:](https://github.com/notionparallax/pronoun-badge)) a way for you to add pronouns to your GitHub readme (see above for an example!)
+    - Pronoun badge ([:octocat:](https://github.com/notionparallax/pronoun-badge)) a way for you to add pronouns to your GitHub readme (see above for an example!). There's an interface for generating the url [here](https://peaceful-goodall-c192fb.netlify.app/).
 
 I also have a website at [notionparallax.co.uk](http://notionparallax.co.uk/) 🐷
 
